@@ -1,0 +1,32 @@
+\contentsline {section}{\numberline {1}Abstract}{1}
+\contentsline {section}{\numberline {2}Multi Agent Systems and Task Allocation}{1}
+\contentsline {subsection}{\numberline {2.1}Defining A Multi Agent System}{1}
+\contentsline {subsection}{\numberline {2.2}Defining Dynamic Task Allocation in a MAS}{1}
+\contentsline {section}{\numberline {3}Comparison of Task Allocation Structures}{2}
+\contentsline {subsection}{\numberline {3.1}Centralized versus Distributed}{2}
+\contentsline {subsection}{\numberline {3.2}Local versus Global}{3}
+\contentsline {subsection}{\numberline {3.3}Hierarchical versus Horizontal}{4}
+\contentsline {section}{\numberline {4}A Hierarchical Task Delegation Model}{5}
+\contentsline {subsection}{\numberline {4.1}Outline of the HTD Model}{5}
+\contentsline {subsection}{\numberline {4.2}Influences}{5}
+\contentsline {subsubsection}{\numberline {4.2.1}Extended Task Allocation Method with Link Generation and Elimination (eTALGE)}{5}
+\contentsline {subsubsection}{\numberline {4.2.2}Community Aware Social Networked Multi Agent System (CS-SN-MAS)}{6}
+\contentsline {subsubsection}{\numberline {4.2.3}Efficient Task Allocation Protocol (ETAP)}{6}
+\contentsline {subsection}{\numberline {4.3}Assumptions}{7}
+\contentsline {subsection}{\numberline {4.4}Implementation of the HTD Model}{7}
+\contentsline {subsubsection}{\numberline {4.4.1}Definitions}{7}
+\contentsline {subsubsection}{\numberline {4.4.2}Model Structure}{8}
+\contentsline {subsubsection}{\numberline {4.4.3}Dynamic Task Allocation}{9}
+\contentsline {paragraph}{Task Procurement}{9}
+\contentsline {paragraph}{Task Delegation}{9}
+\contentsline {paragraph}{Task Commitment}{10}
+\contentsline {paragraph}{Allocation Constraints}{10}
+\contentsline {subsection}{\numberline {4.5}Analysis of the HTD Model}{11}
+\contentsline {paragraph}{Best Case}{11}
+\contentsline {paragraph}{Worst Case}{11}
+\contentsline {paragraph}{Average Case}{11}
+\contentsline {subsection}{\numberline {4.6}Improvements}{12}
+\contentsline {paragraph}{Allocation Including Distance}{12}
+\contentsline {paragraph}{Delegation With Learning}{12}
+\contentsline {section}{\numberline {5}Conclusion}{12}
+\contentsline {section}{\numberline {6}References}{13}
